@@ -1,6 +1,6 @@
 [package]
 name        = "mod_use"
-version     = "0.2.1"
+version     = "0.2.2"
 edition     = "2021"
 description = "pub mod xxx; use xxx::*;"
 license     = "MIT"
